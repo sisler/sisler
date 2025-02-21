@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sisler
-- 👀 DevOps, low-latency software
-- 🌱 I’m currently re-learning C++ and Machine Learning
+- 👀 DevOps, EHRs, FHIR, HL7, LLMs
+- 🌱 I’m updating my machine Machine Learning knowledge
 - 💞️ Projects of mutual interest
 - 📫 How to reach me ...
 
